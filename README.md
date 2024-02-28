@@ -36,10 +36,15 @@ The gradual integration of the IT industry into the hotel sector is a noteworthy
 CONCLUSION
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •	hotel_booking.csv dataset is a supervised classification dataset.
+
 •	Among these four machine learning algorithms, Random forest and Decision trees perform well with respect to accuracy.
+
 •	This models classifies whether or not a booking will be canceled with 95% and 94% accuracy.
+
 •	Our EDA (Exploratory data analysis ) explain a non-refundable deposit and requiring parking spaces are the two features influencing cancellation prediction the most.
+
 •	Our analysis also pointed at the importance of lead time, number of special requests, and room type.
+
 •	we discovered that a deeper understanding of the situation may require additional hotel specific information (such as surrounding parking availability or deposit policies).
 
 RECOMMENDATION
